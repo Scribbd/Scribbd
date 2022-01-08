@@ -4,7 +4,7 @@ name: Infrequent updates for stuff that doesn't change fast
 on:
   schedule:
     - "0 0 * * 1" # Every Monday at 0:00
-  workflow_dispatch: {}
+  workflow_dispatch: ~
 
 jobs:
   badges:

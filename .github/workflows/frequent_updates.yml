@@ -3,7 +3,7 @@ name: Frequently updated for daily stats
 on:
   schedule:
     - "0 0 * * *" # Every day at 0:00
-  workflow_dispatch: {}
+  workflow_dispatch: ~
 
 jobs:
   time_blocks:
