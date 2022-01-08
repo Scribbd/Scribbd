@@ -11,7 +11,7 @@
     - url: https://github.com/Scribbd/BirthdayParty
 
 - name: AWS SDK/CDK/CFn
-  logo: amazon_aws
+  logo: amazon%20aws
   url: https://aws.amazon.com/
   color: '#232F3E'
   projects:
