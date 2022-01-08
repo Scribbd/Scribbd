@@ -1,0 +1,20 @@
+---
+name: Infrequent updates for stuff that doesn't change fast
+
+on:
+  schedule:
+    - "0 0 * * 1" # Every Monday at 0:00
+  workflow_dispatch: {}
+
+jobs:
+  badges:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@v2.3.0
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CREDLY_USER: "coen-meulenkamp"
+          BADGES_SIZE: 64

@@ -1,0 +1,17 @@
+name: Updates checked only on push and when the stack has changed
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "stack.yml"
+
+jobs:
+  update_profile_stack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: update tech stack
+        uses: gleich/profile_stack@v2.0.1
