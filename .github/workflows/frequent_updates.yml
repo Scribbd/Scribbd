@@ -8,10 +8,10 @@ on:
 
 jobs:
   time_blocks:
+    name: Update timeblocks
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
       - name: Update WakaTime Stats
         uses: aathul/waka-readme@v0.1.5
         with:
@@ -19,10 +19,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-
-        - name: Update activities
-          uses: jamesgeorge007/github-activity-readme@v0.3.6
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          with:
-            MAX_LINES: 10
+      - name: Update activities
+        uses: jamesgeorge007/github-activity-readme@v0.3.6
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 10
