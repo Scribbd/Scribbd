@@ -1,0 +1,53 @@
+---
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: '#3C78A9'
+  projects:
+    - url: https://github.com/Scribbd/gdocs-to-md-and-back
+      wip: true
+    - url: https://github.com/Scribbd/NotSoQuickWordFinder
+    - url: https://github.com/Scribbd/FizzBuzzGame
+    - url: https://github.com/Scribbd/BirthdayParty
+
+- name: AWS SDK/CDK/CFn
+  logo: amazon aws
+  url: https://aws.amazon.com/
+  color: '#232F3E'
+  projects:
+    - url: https://github.com/Scribbd/go-r53-ddns
+    - url: https://github.com/Scribbd/tropical-chia
+      wip: true
+    - url: https://github.com/Scribbd/TechGroundInAcountUser
+
+- name: Golang
+  logo: go
+  url: https://golang.org
+  color: '7FD6EA'
+  projects:
+    - url: https://github.com/Scribbd/go-r53-ddns
+
+- name: Ansible
+  logo: ansible
+  url: https://www.ansible.com/
+  color: '#EE0000'
+  projects:
+    - url: https://github.com/Scribbd/k8s-in-r7y-pi
+      wip: true
+
+- name: Docker
+  logo: docker
+  url: https://www.docker.com/
+  color: '#2496ED'
+  projects:
+    - url: https://github.com/Scribbd/chia-docker-slim
+
+- name: Helm
+  logo: helm
+  url: https://helm.sh/
+  color: '#0F1689'
+  projects:
+    - url: https://github.com/Scribbd/go-r53-ddns
+
+
+
