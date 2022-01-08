@@ -10,7 +10,7 @@
     - url: https://github.com/Scribbd/FizzBuzzGame
     - url: https://github.com/Scribbd/BirthdayParty
 
-- name: AWS SDK.CDK.CFn
+- name: AWS.SDK.CDK.CFn
   logo: amazon%20aws
   url: https://aws.amazon.com/
   color: '#232F3E'
