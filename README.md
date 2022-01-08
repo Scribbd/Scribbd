@@ -55,4 +55,4 @@ Docker     1 hr 1 min      ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 <!--END_SECTION:waka-->
 
-[^3]: Provided by: [athul/waka-readme](https://github.com/athul/waka-readme)
+[^4]: Provided by: [athul/waka-readme](https://github.com/athul/waka-readme)
