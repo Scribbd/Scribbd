@@ -1,3 +1,4 @@
+---
 name: Updates checked only on push and when the stack has changed
 
 on:
