@@ -38,7 +38,7 @@ Provided by: [jamesgeorge007/github-activity-readme](https://github.com/jamesgeo
 [^2]: Provided by: [pemtajo/badge-readme](https://github.com/pemtajo/badge-readme)
 
 ## ↪️ Where to find me: [^3]
-<a href="https://github.com/Scribbd"><img style="padding:5px" src="./assets/github.png" alt="Github Profile. Where you are at!"></a> <a href="https://hub.docker.com/u/scribbd"><img style="padding:5px" src="./assets/docker.png" alt="Docker-Hub Profile"></a> <a href="https://www.linkedin.com/in/coen-meulenkamp-88767031/"><img style="padding:5px" src="./assets/linkedin.png" alt="LinkedIn Profile"></a> <a href="https://keybase.io/scribbd"><img style="padding:5px" src="./assets/keybase.png"></img></a> <a href="https://keybase.io/scribbd/pgp_keys.asc"><img style="padding:5px" src="./assets/public_key.png" alt="Get my public key!"></a>
+<a href="https://github.com/Scribbd"><img style="padding:5px" src="./assets/github.png" alt="Github Profile. Where you are at!" title="Github Profile. Where you are at!"></a> <a href="https://hub.docker.com/u/scribbd"><img style="padding:5px" src="./assets/docker.png" alt="Docker-Hub Profile" title="DockerHub Profile"></a> <a href="https://www.linkedin.com/in/coen-meulenkamp-88767031/"><img style="padding:5px" src="./assets/linkedin.png" alt="LinkedIn Profile" title="LinkedIn Profile"></a> <a href="https://keybase.io/scribbd"><img style="padding:5px" src="./assets/keybase.png" title="KeyBase Profile"></img></a> <a href="https://keybase.io/scribbd/pgp_keys.asc"><img style="padding:5px" src="./assets/public_key.png" alt="Get my public keys!" title="Get my public keys!"></a>
 
 [^3]: Icons provided by heroicons.com (key), simpleicons.org (brands).
 
