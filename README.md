@@ -45,9 +45,9 @@ Provided by: [jamesgeorge007/github-activity-readme](https://github.com/jamesgeo
 ## ⏱️ My Time Spent this week: [^4]
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 07 February, 2022
+Week: 01 February, 2022 - 08 February, 2022
 
-Markdown   2 hrs 28 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.84 % 
+Markdown   29 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.83 % 
 ```
 <!--END_SECTION:waka-->
 
