@@ -45,7 +45,7 @@ Provided by: [jamesgeorge007/github-activity-readme](https://github.com/jamesgeo
 ## ⏱️ My Time Spent this week: [^4]
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2022 - 13 February, 2022
+Week: 07 February, 2022 - 14 February, 2022
 
 
 ```
