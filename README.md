@@ -45,7 +45,13 @@ Provided by: [jamesgeorge007/github-activity-readme](https://github.com/jamesgeo
 ## ⏱️ My Time Spent this week: [^4]
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 15 March, 2022 - 22 March, 2022
+
+Python       2 hrs 54 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.31 % 
+Markdown     2 hrs 25 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.96 % 
+Bash         31 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.82 % 
+Docker       20 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.14 % 
+Git Config   17 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.41 % 
 ```
 <!--END_SECTION:waka-->
 
