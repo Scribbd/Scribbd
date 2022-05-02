@@ -30,7 +30,7 @@ Provided by: [jamesgeorge007/github-activity-readme](https://github.com/jamesgeo
 <!--START_SECTION:badges-->
 
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/df935c7e-6ba9-4f79-97b8-539660930908 "AWS Certified Solutions Architect – Associate")
-[![AWS re/Start Graduate](https://images.credly.com/size/110x110/images/eaba34f6-f0b2-47ec-a6b7-ff334f7d8a02/AWS-Restart-Graduate-Badge-Foundational.png)](http://www.credly.com/badges/b6947f21-a85f-415b-81e6-9158d469191c "AWS re/Start Graduate")
+[![AWS re/Start Graduate](https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png)](http://www.credly.com/badges/b6947f21-a85f-415b-81e6-9158d469191c "AWS re/Start Graduate")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/1dbb980b-4915-4e46-8fd7-41f627c5cd1b "AWS Certified Developer – Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/a2d27e7f-d6ef-47f3-b45c-18fb605a5404 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
