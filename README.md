@@ -45,7 +45,7 @@ Provided by: [jamesgeorge007/github-activity-readme](https://github.com/jamesgeo
 ## ⏱️ My Time Spent this week: [^4]
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2022 - 24 September, 2022
+Week: 18 September, 2022 - 25 September, 2022
 
 Python     1 hr 28 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.20 % 
 JSON       35 mins         ⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.74 % 
