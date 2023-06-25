@@ -7,16 +7,19 @@
     - url: https://github.com/Scribbd/NotSoQuickWordFinder
     - url: https://github.com/Scribbd/FizzBuzzGame
     - url: https://github.com/Scribbd/BirthdayParty
+    - url: https://github.com/Scribbd/scribbdurlshortener
+    - url: https://github.com/Scribbd/linux-nester
+    - url: https://github.com/Scribbd/nest-mailer
 
-- name: AWS.SDK.CDK.CFn
+
+- name: AWS.SDK.CDK.SAM.CFn
   logo: amazon%20aws
   url: https://aws.amazon.com/
   color: '#232F3E'
   projects:
     - url: https://github.com/Scribbd/go-r53-ddns
-    - url: https://github.com/Scribbd/tropical-chia
-      wip: true
     - url: https://github.com/Scribbd/TechGroundInAcountUser
+    - url: https://github.com/Scribbd/scribbdurlshortener
 
 - name: Golang
   logo: go
@@ -24,8 +27,6 @@
   color: '7FD6EA'
   projects:
     - url: https://github.com/Scribbd/go-r53-ddns
-    - url: https://github.com/Scribbd/publish-md-to-gdocs-action
-      wip: true
 
 - name: Ansible
   logo: ansible

@@ -12,7 +12,7 @@ jobs:
   update_profile_stack:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: update tech stack
-        uses: gleich/profile_stack@v2.0.1
+        uses: gleich/profile_stack@v2.1.0
