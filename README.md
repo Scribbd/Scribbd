@@ -1,8 +1,11 @@
 # Coen Meulenkamp (Scribbd)
 
-Cloud Engineer specialized in @AWS, re/START educator. Automation fanatic. Abstraction-aholic. Dipping my toes in Open-Source.
+Cloud Engineer specialized in @AWS, re/START educator. Automation fanatic. Abstraction-aholic.
 
-By daytime I instruct those who wish to seek a change in their career to be Cloud Engineers. By night-time I love to game, work on personal projects, and learn new skills.
+I currently work for @KNMI as a cloud engineer. My tasks include: 
+- Developing the landing zone of the KNMI in the AWS Cloud.
+- Educating my colleagues about cloud development in our complex and growing multi-cloud landscape.
+- Assisting architects in providing the possibilities and solutions within our cloud environment.
 
 <!--
 ## 🛤️ My Current Projects:
@@ -60,3 +63,5 @@ JSON               25 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 [^4]: Provided by: [athul/waka-readme](https://github.com/athul/waka-readme)
+
+[![PipelineTracker](https://github.com/Scribbd/Scribbd/actions/workflows/frequent_updates.yml/badge.svg)](https://github.com/Scribbd/Scribbd/actions/workflows/frequent_updates.yml)
