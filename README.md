@@ -51,9 +51,13 @@ Provided by: [jamesgeorge007/github-activity-readme](https://github.com/jamesgeo
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
-No activity tracked
+YAML     44 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.57 %
+TOML     22 mins         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.74 %
+Python   20 mins         ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.53 %
+Other    7 mins          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.04 %
+JSON     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.08 %
 ```
 
 <!--END_SECTION:waka-->
